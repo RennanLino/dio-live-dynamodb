@@ -29,6 +29,36 @@
                   "SongYear": {"S": "1992"}
                 }
             }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Dream Theater"},
+                "SongTitle": {"S": "Home"},
+                "AlbumTitle": {"S": "Metropolis Pt. 2: Scenes from a Memory"},
+                "SongYear": {"S": "1999"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Dream Theater"},
+                "SongTitle": {"S": "A Nightmare to Remember"},
+                "AlbumTitle": {"S": "Black Clouds & Silver Linings"},
+                "SongYear": {"S": "2009"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Dream Theater"},
+                "SongTitle": {"S": "As I Am"},
+                "AlbumTitle": {"S": "Train of Thought"},
+                "SongYear": {"S": "2003"}
+              }
+          }
         }
       ]
 }

@@ -1,5 +1,5 @@
 # dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+Repositório para o desafio "Boas práticas com DynamoDB" do bootcamp Banco PAN Java Developer
 
 ### Serviço utilizado
   - Amazon DynamoDB
